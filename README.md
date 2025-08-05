@@ -1,8 +1,5 @@
 # practie
 
 sample
-
-
-
 text
 
